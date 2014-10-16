@@ -1,0 +1,864 @@
+TCocosDenshion Mac
+v6
+r1
+cCheck dependencies
+cCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005311A664000000000000044C
+t1393665636
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005311A66400000000000001DE
+t1393665636
+s478
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDAudioManager.o
+t1412059855
+s106344
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDOpenALSupport.o
+t1412059855
+s14848
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o
+t1412059855
+s52420
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CocosDenshion Mac.LinkFileList
+c00000000542A52CD000000000000043F
+t1412059853
+s1087
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CocosDenshion.o
+t1412059855
+s146408
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o
+t1412059856
+s74676
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o
+t1412059855
+s45328
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/Export.h
+c0000000054292FCE000000000000078E
+t1411985358
+s1934
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/SimpleAudioEngine.h
+c0000000054292FCE0000000000001E0C
+t1411985358
+s7692
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.h
+c0000000054292FCE00000000000026ED
+t1411985358
+s9965
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m
+c0000000054292FCE000000000000780D
+t1411985358
+s30733
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+c0000000054292FCE0000000000000A9A
+t1411985358
+s2714
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+c0000000054292FCE0000000000000D05
+t1411985358
+s3333
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m
+c0000000054292FCE0000000000002AA4
+t1411985358
+s10916
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+c0000000054292FCE0000000000002336
+t1411985358
+s9014
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm
+c0000000054292FCE0000000000001446
+t1411985358
+s5190
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+c0000000054292FCE0000000000003B5B
+t1411985358
+s15195
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m
+c0000000054292FCE000000000000CEC6
+t1411985358
+s52934
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm
+c0000000054292FCE0000000000001DF3
+t1411985358
+s7667
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.h
+c0000000054292FCE0000000000001020
+t1411985358
+s4128
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m
+c0000000054292FCE0000000000001663
+t1411985358
+s5731
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCConsole.h
+c0000000054292FCE00000000000011E7
+t1411985358
+s4583
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCData.h
+c0000000054292FCE0000000000000BE6
+t1411985358
+s3046
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCPlatformConfig.h
+c0000000054292FCE000000000000125F
+t1411985358
+s4703
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCPlatformMacros.h
+c0000000054292FCE0000000000002ECE
+t1411985358
+s11982
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCRef.h
+c0000000054292FCE000000000000124C
+t1411985358
+s4684
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCValue.h
+c0000000054292FCE0000000000001103
+t1411985358
+s4355
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/ccConfig.h
+c0000000054292FCE00000000000027A9
+t1411985358
+s10153
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/ccMacros.h
+c0000000054292FCE0000000000002D20
+t1411985358
+s11552
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/ccTypes.h
+c0000000054292FCE0000000000002BF5
+t1411985358
+s11253
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/CCGeometry.h
+c0000000054292FCE0000000000001072
+t1411985358
+s4210
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/CCMath.h
+c0000000054292FCE0000000000000095
+t1411985358
+s149
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/CCMathBase.h
+c0000000054292FCE00000000000005E9
+t1411985358
+s1513
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Mat4.h
+c0000000054292FCE0000000000008153
+t1411985358
+s33107
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Mat4.inl
+c0000000054292FCE000000000000077B
+t1411985358
+s1915
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Quaternion.h
+c0000000054292FCE00000000000037F7
+t1411985358
+s14327
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Quaternion.inl
+c0000000054292FCE00000000000003E0
+t1411985358
+s992
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec2.h
+c0000000054292FCE000000000000503D
+t1411985358
+s20541
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec2.inl
+c0000000054292FCE00000000000007B4
+t1411985358
+s1972
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec3.h
+c0000000054292FCE0000000000003290
+t1411985358
+s12944
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec3.inl
+c0000000054292FCE0000000000000832
+t1411985358
+s2098
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec4.h
+c0000000054292FCE0000000000002E23
+t1411985358
+s11811
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec4.inl
+c0000000054292FCE00000000000008ED
+t1411985358
+s2285
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/CCFileUtils.h
+c0000000054292FCE000000000000462F
+t1411985358
+s17967
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/mac/CCGL.h
+c0000000054292FCE00000000000007B3
+t1411985358
+s1971
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/mac/CCPlatformDefine.h
+c0000000054292FCE0000000000000736
+t1411985358
+s1846
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/mac/CCStdC.h
+c0000000054292FCE0000000000000739
+t1411985358
+s1849
+
+N/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac/libCocosDenshion Mac.a
+t2
+s0
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDAudioManager.o
+t1411899963
+s104132
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDOpenALSupport.o
+t1411899963
+s14688
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o
+t1411899963
+s51276
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CocosDenshion Mac.LinkFileList
+c000000005427E23A000000000000042D
+t1411899962
+s1069
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CocosDenshion.o
+t1411899963
+s143920
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o
+t1411899963
+s73876
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o
+t1411899963
+s43948
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m
+c0000000053BF48A8000000000000780D
+t1405044904
+s30733
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m
+c0000000053BF48A80000000000002AA4
+t1405044904
+s10916
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm
+c0000000053BF8BF00000000000001446
+t1405062128
+s5190
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m
+c0000000053BF48A8000000000000CEC6
+t1405044904
+s52934
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm
+c0000000053BF7DD60000000000001DF3
+t1405058518
+s7667
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m
+c0000000053BF48A80000000000001663
+t1405044904
+s5731
+
+N/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac/libCocosDenshion Mac.a
+t2
+s0
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDAudioManager.o
+t1412752895
+s104068
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDOpenALSupport.o
+t1412752895
+s14624
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o
+t1412752894
+s51228
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CocosDenshion Mac.LinkFileList
+c000000005434E5FC00000000000003C1
+t1412752892
+s961
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CocosDenshion.o
+t1412752894
+s143872
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o
+t1412752895
+s73780
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o
+t1412752894
+s43868
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m
+c000000005434E234000000000000780D
+t1412751924
+s30733
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m
+c000000005434E2340000000000002AA4
+t1412751924
+s10916
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm
+c000000005434E2340000000000001446
+t1412751924
+s5190
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m
+c000000005434E234000000000000CEC6
+t1412751924
+s52934
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm
+c000000005434E2340000000000001DF3
+t1412751924
+s7667
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m
+c000000005434E2340000000000001663
+t1412751924
+s5731
+
+N/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/libCocosDenshion Mac.a
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies38bafa7c1de5b941^715afc7c1de5b941^---0#1#1#--18"Check dependencies36"81D4F466-C05A-49B1-A63F-7C0904F55F7A-
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433752655.110633
+e433752655.933814
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDAudioManager.o
+x/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m285"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler00741c4f8adab941^a419ef4f8adab941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m0000000000000000^3593"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac/include -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.d --serialize-diagnostics /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.dia -c /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m -o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o36"D6DAE061-2F1C-493C-9255-432AA54BC447-
+b2DDDA043-5DA6-4465-87FB-4682DECB62B2
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433592763.277895
+e433592763.726401
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDAudioManager.o
+x/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m282"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compileref3a47bb19d8b941^7bf5b9bb19d8b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m0000000000000000^3542"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac/include -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.d --serialize-diagnostics /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.dia -c /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m -o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o36"43031C2A-31BB-4844-8D0F-053D017BA006-
+bB5839BAD-798A-4878-B70A-1DE0D5608378
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s434445694.631877
+e434445695.609250
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDAudioManager.o
+x/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m264"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb6d8a17e1de5b941^12f89b7f1de5b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m0000000000000000^3236"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/include -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.d --serialize-diagnostics /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.dia -c /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m -o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o36"3BA19DEA-CCBD-4481-BAD2-173643E81315-
+bE040AF9B-E7C5-4B6E-BF29-41314D671DDB
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433752655.234602
+e433752655.945984
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDOpenALSupport.o
+x/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m287"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5e303c4f8adab941^672cf24f8adab941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m0000000000000000^3599"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac/include -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.d --serialize-diagnostics /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.dia -c /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m -o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o36"34BAAFFE-7093-4DD0-B9EB-64EE221C309A-
+b2DDDA043-5DA6-4465-87FB-4682DECB62B2
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433592763.356914
+e433592763.715671
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDOpenALSupport.o
+x/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m284"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1b825bbb19d8b941^7a36b7bb19d8b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m0000000000000000^3548"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac/include -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.d --serialize-diagnostics /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.dia -c /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m -o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o36"49209D88-E0B3-4269-981B-CE502FFFE86D-
+bB5839BAD-798A-4878-B70A-1DE0D5608378
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s434445694.914903
+e434445695.655029
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDOpenALSupport.o
+x/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m266"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8e22eb7e1de5b941^2db0a77f1de5b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m0000000000000000^3242"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/include -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.d --serialize-diagnostics /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.dia -c /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m -o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o36"C6436BD1-78AA-443B-9DBC-F5B667B8CD3C-
+bE040AF9B-E7C5-4B6E-BF29-41314D671DDB
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s433752653.681108
+e433752655.487865
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o
+x/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/SimpleAudioEngine.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/Export.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm292"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler6685ae4d8adab941^61dd7c4f8adab941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm0000000000000000^3683"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wnon-virtual-dtor -Woverloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac/include -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.d --serialize-diagnostics /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.dia -c /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm -o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o36"E6AD3BCB-8AD4-4AC8-A704-F8A13990A2C2-
+b2DDDA043-5DA6-4465-87FB-4682DECB62B2
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s433592762.783201
+e433592763.494302
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o
+x/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/SimpleAudioEngine.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/Export.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm289"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler9f91c8ba19d8b941^f88a7ebb19d8b941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm0000000000000000^3632"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wnon-virtual-dtor -Woverloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac/include -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.d --serialize-diagnostics /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.dia -c /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm -o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o36"C2A75423-4CE9-451A-A7F2-EF5A6A5E75A1-
+bB5839BAD-798A-4878-B70A-1DE0D5608378
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s434445692.986668
+e434445694.914632
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o
+x/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/SimpleAudioEngine.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/Export.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm271"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compileraca9fc7c1de5b941^0727ea7e1de5b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm0000000000000000^3326"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wnon-virtual-dtor -Woverloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/include -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.d --serialize-diagnostics /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.dia -c /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm -o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o36"F36E83DF-ABDE-4253-8A98-075B74657566-
+bE040AF9B-E7C5-4B6E-BF29-41314D671DDB
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433752653.682788
+e433752655.233687
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CocosDenshion.o
+x/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m283"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfbeaae4d8adab941^f73b3c4f8adab941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m0000000000000000^3587"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac/include -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.d --serialize-diagnostics /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.dia -c /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m -o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o36"2695FFFF-02E2-49F5-94BE-45D18A70974E-
+b2DDDA043-5DA6-4465-87FB-4682DECB62B2
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433592762.784163
+e433592763.356553
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CocosDenshion.o
+x/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m280"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6fd6c8ba19d8b941^325a5bbb19d8b941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m0000000000000000^3536"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac/include -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.d --serialize-diagnostics /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.dia -c /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m -o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o36"E85CC06B-80AD-4526-82EE-848EBEB88FEF-
+bB5839BAD-798A-4878-B70A-1DE0D5608378
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s434445692.987627
+e434445694.922054
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CocosDenshion.o
+x/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m262"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1de9fc7c1de5b941^b70cec7e1de5b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m0000000000000000^3230"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/include -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.d --serialize-diagnostics /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.dia -c /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m -o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o36"D423D66F-B489-47A4-BE25-0008BAD4C185-
+bE040AF9B-E7C5-4B6E-BF29-41314D671DDB
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s433752653.681648
+e433752656.119008
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o
+x/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/SimpleAudioEngine.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/Export.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/CCFileUtils.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCPlatformMacros.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/ccConfig.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCPlatformConfig.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/mac/CCPlatformDefine.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/ccTypes.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/CCGeometry.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/ccMacros.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCConsole.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCRef.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/mac/CCStdC.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/CCMath.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec2.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/CCMathBase.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec2.inl
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec3.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec3.inl
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Mat4.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec4.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec4.inl
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Mat4.inl
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Quaternion.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Quaternion.inl
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/mac/CCGL.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCValue.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm294"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compilere8bcae4d8adab941^d5771e508adab941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm0000000000000000^3689"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wnon-virtual-dtor -Woverloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac/include -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.d --serialize-diagnostics /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.dia -c /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm -o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o36"2956606B-7CF5-4E01-BCD6-28236DB2FA87-
+b2DDDA043-5DA6-4465-87FB-4682DECB62B2
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s433592762.783546
+e433592763.902811
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o
+x/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/SimpleAudioEngine.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/Export.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/CCFileUtils.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCPlatformMacros.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/ccConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCPlatformConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/mac/CCPlatformDefine.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/ccTypes.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/CCGeometry.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/ccMacros.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCConsole.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCRef.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/mac/CCStdC.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/CCMath.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec2.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/CCMathBase.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec2.inl
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec3.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec3.inl
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Mat4.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec4.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec4.inl
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Mat4.inl
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Quaternion.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Quaternion.inl
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/mac/CCGL.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCValue.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm291"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler0bb3c8ba19d8b941^681fe7bb19d8b941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm0000000000000000^3638"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wnon-virtual-dtor -Woverloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac/include -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.d --serialize-diagnostics /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.dia -c /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm -o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o36"B24CDDA0-000E-40E5-99ED-E4F17E7EE981-
+bB5839BAD-798A-4878-B70A-1DE0D5608378
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s434445692.987072
+e434445695.755521
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o
+x/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/SimpleAudioEngine.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/include/Export.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/CCFileUtils.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCPlatformMacros.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/ccConfig.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCPlatformConfig.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/mac/CCPlatformDefine.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/ccTypes.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/CCGeometry.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/ccMacros.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCConsole.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCRef.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/mac/CCStdC.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/CCMath.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec2.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/CCMathBase.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec2.inl
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec3.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec3.inl
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Mat4.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec4.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Vec4.inl
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Mat4.inl
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Quaternion.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/math/Quaternion.inl
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/platform/mac/CCGL.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCValue.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/base/CCData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm273"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler0d1bfd7c1de5b941^df6ac17f1de5b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm0000000000000000^3332"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wnon-virtual-dtor -Woverloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/include -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.d --serialize-diagnostics /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.dia -c /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm -o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o36"CDFFDE9E-C55C-4787-842A-EBFAE9B1E118-
+bE040AF9B-E7C5-4B6E-BF29-41314D671DDB
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433752653.680744
+e433752655.110300
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o
+x/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m301"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler755bae4d8adab941^423e1c4f8adab941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m0000000000000000^3641"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac/include -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.d --serialize-diagnostics /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.dia -c /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m -o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o36"10A4D583-3B6A-4547-92D4-C2F43145147A-
+b2DDDA043-5DA6-4465-87FB-4682DECB62B2
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433592762.782992
+e433592763.277648
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o
+x/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m298"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3483c8ba19d8b941^520d47bb19d8b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m0000000000000000^3590"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac/include -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.d --serialize-diagnostics /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.dia -c /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m -o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o36"D41612CD-D765-4A84-936F-6725D31FA273-
+bB5839BAD-798A-4878-B70A-1DE0D5608378
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s434445692.986409
+e434445694.629516
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o
+x/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m280"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6397fc7c1de5b941^5b28a17e1de5b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m0000000000000000^3284"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/include -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.d --serialize-diagnostics /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.dia -c /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m -o /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o36"C919280F-F5B6-4236-85BC-FB32E50AE267-
+bE040AF9B-E7C5-4B6E-BF29-41314D671DDB
+
+CLibtool /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a normal x86_64
+s434438235.782746
+e434438235.803090
+r1
+xLibtool
+x/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac/libCocosDenshion Mac.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Libtool /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a normal x86_64115"Libtool /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a normal x86_64266fc85b00e5b941^0798cd5b00e5b941^---0#0#1#--859"Libtool /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a normal x86_64    cd /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac -filelist /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion\ Mac.LinkFileList -o /Users/gaoyang/WorkSpace/TopGame/royalcasino/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a36"E9E3CB7A-47F8-481F-B909-54096B419506-
+b9408E749-BD09-4862-B52E-4A97AA468C9F
+
+CLibtool /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a normal x86_64
+s433592763.903755
+e433592763.912095
+r1
+xLibtool
+x/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac/libCocosDenshion Mac.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Libtool /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a normal x86_64112"Libtool /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a normal x86_643770e7bb19d8b941^637fe9bb19d8b941^---0#0#1#--844"Libtool /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a normal x86_64    cd /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac -filelist /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion\ Mac.LinkFileList -o /Users/mixiancheng/Documents/mxc/cocos3.2/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a36"27A5A9F6-7D03-4A63-9949-5FCAA31AD480-
+bB5839BAD-798A-4878-B70A-1DE0D5608378
+
+CLibtool /Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a normal x86_64
+s434445695.756243
+e434445695.769606
+r1
+xLibtool
+x/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/libCocosDenshion Mac.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Libtool /Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a normal x86_6494"Libtool /Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a normal x86_64cea8c17f1de5b941^9a06c57f1de5b941^---0#0#1#--754"Libtool /Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a normal x86_64    cd /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac -filelist /Users/mixiancheng/Roya/RoyaISIotLua/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion\ Mac.LinkFileList -o /Users/mixiancheng/Roya/RoyaISIotLua/runtime/mac/libCocosDenshion\ Mac.a36"FD1C9AD7-B072-465E-8655-E2FD621B7456-
+bE040AF9B-E7C5-4B6E-BF29-41314D671DDB
+
