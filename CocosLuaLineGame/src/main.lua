@@ -6,7 +6,9 @@ require "OpenglConstants"
 cclog = function(...)
     print(string.format(...))
 end
-
+debugLog=function(...)
+cclog(...)
+end
 -- for CCLuaEngine traceback
 function __G__TRACKBACK__(msg)
     cclog("----------------------------------------")

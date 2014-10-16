@@ -23,6 +23,15 @@ Obj._allSameDelAvt=nil
 Obj._schedulerId=0
 ObjState={normal=0,droping=1,dead=-3}
 ObjType={"one","two","three","four"}
+function Obj:moveTopoint(_x,_y) --@return typeOrObject
+    self._state=ObjState.droping
+	local function moveOver() --@return typeOrObject
+    self._state=ObjState.normal
+	end
+	local _moveAction=cc.MoveTo:create(0.1,cc.p(_x,_y))
+	local _action=cc.Sequence:create(_moveAction,cc.CallFunc:create(moveOver))
+	self:runAction(_action)
+end
 function Obj:draw() --@return typeOrObject
 	cclog("draw------------------->")
 end
@@ -184,23 +193,23 @@ function Obj:initData(_type,_col,_row) --@return typeOrObject
     --
     --
     function MyUpdata(parameters) --@return typeOrObject
-        if getGameState()~=GAMESTATE.droping then return end
-        if self._state==ObjState.dead then return end 
-            local _tempcol=self._col
-            local _temprow=self._row-1
-            local  newPoint=Rules.findPath(_temprow,_tempcol)
-            if newPoint~=nil then
-                self._state=ObjState.droping
-                local oldCel=Rules.get_mapData_cell(self._row,self._col)
-                local newCel=Rules.get_mapData_cell(newPoint.x,newPoint.y)
-                newCel.obj=self
-                oldCel.obj=nil
-                self:MovePoint(newPoint.x,newPoint.y)
-            end
-            return
+--        if getGameState()~=GAMESTATE.droping then return end
+--        if self._state==ObjState.dead then return end 
+--            local _tempcol=self._col
+--            local _temprow=self._row-1
+--            local  newPoint=Rules.findPath(_temprow,_tempcol)
+--            if newPoint~=nil then
+--                self._state=ObjState.droping
+--                local oldCel=Rules.get_mapData_cell(self._row,self._col)
+--                local newCel=Rules.get_mapData_cell(newPoint.x,newPoint.y)
+--                newCel.obj=self
+--                oldCel.obj=nil
+--                self:MovePoint(newPoint.x,newPoint.y)
+--            end
+--            return
         end
-    local scheduler =cc.Director:getInstance():getScheduler()
-   self._schedulerId= scheduler:scheduleScriptFunc(MyUpdata,0.025, false)
+--    local scheduler =cc.Director:getInstance():getScheduler()
+--   self._schedulerId= scheduler:scheduleScriptFunc(MyUpdata,0.025, false)
 end
 ---
 --
