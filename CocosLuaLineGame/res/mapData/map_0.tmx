@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="15" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="Default" tilewidth="64" tileheight="64">
+  <image source="Default.png" width="640" height="960"/>
+ </tileset>
+ <layer name="块层 1" width="10" height="15">
+  <data encoding="base64" compression="zlib">
+   eJyVyqm2gQEYQNG/m+eZSqVSqVQqlUqlGq5reF77DXzOWrudVJIkaTJkyZGnQJESZSpUqVGnQZMWbTp06SXf6zMIfENGgW/MJPBNmQW+OYvAt2QV+NZsAt+WXeDbcwh8R06B78yFKzf+uPPPgycv3j98H6PcFFI=
+  </data>
+ </layer>
+ <objectgroup name="cellData" width="10" height="15">
+  <object x="64" y="128" width="512" height="704">
+   <properties>
+    <property name="type" value="normal"/>
+   </properties>
+  </object>
+  <object x="128" y="64" width="448" height="64">
+   <properties>
+    <property name="type" value="factory"/>
+   </properties>
+  </object>
+  <object x="256" y="320" width="64" height="320">
+   <properties>
+    <property name="type" value="dead"/>
+   </properties>
+  </object>
+  <object x="128" y="256" width="64" height="64">
+   <properties>
+    <property name="type" value="dead"/>
+   </properties>
+  </object>
+  <object x="448" y="512" width="64" height="128">
+   <properties>
+    <property name="type" value="dead"/>
+   </properties>
+  </object>
+  <object x="384" y="256" width="64" height="64">
+   <properties>
+    <property name="type" value="lock"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,14 @@
+module("Config",package.seeall)
+--MapCol=5
+--MapRow=10
+--objW=72
+--objH=72
+--MapPositonX=0
+--MapPositonY=0
+--_mapData={{{type=1,obj=nil},{type=2,obj=nil},{type=1,obj=nil},{type=2,obj=nil},{type=1,obj=nil},{type=2,obj=nil}},
+--    {{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil}},
+--    {{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil}},
+--    {{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil}},
+--    {{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil},{type=1,obj=nil}},
+--    {{type=1,obj=nil},{type=2,obj=nil},{type=1,obj=nil},{type=2,obj=nil},{type=1,obj=nil},{type=2,obj=nil}}}--1正常地块卡通过 2不可通过
+--_colorTable={cc.c4f(0,0.5,0.5,1),cc.c4f(0.5,0.5,0,1)}

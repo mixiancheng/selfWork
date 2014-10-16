@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CocosLuaLineGame</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.boothen.jsonedit.validation.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.ccdt.cocosproject</nature>
+		<nature>org.eclipse.koneki.ldt.nature</nature>
+		<nature>com.boothen.jsonedit.validation.nature</nature>
+	</natures>
+</projectDescription>

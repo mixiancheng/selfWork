@@ -1,0 +1,251 @@
+TCocosDenshion Mac
+v6
+r1
+cCheck dependencies
+cCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/libCocosDenshion\ Mac.a normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005311A664000000000000044C
+t1393665636
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005311A66400000000000001DE
+t1393665636
+s478
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDAudioManager.o
+t1409643577
+s104132
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDOpenALSupport.o
+t1409643577
+s14688
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o
+t1409643577
+s51276
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CocosDenshion Mac.LinkFileList
+c00000000540574380000000000000433
+t1409643576
+s1075
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CocosDenshion.o
+t1409643577
+s143920
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o
+t1409643577
+s73876
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o
+t1409643577
+s43948
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m
+c00000000538548A6000000000000780D
+t1401243814
+s30733
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m
+c00000000538548A60000000000002AA4
+t1401243814
+s10916
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm
+c00000000538548A60000000000001445
+t1401243814
+s5189
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m
+c00000000538548A6000000000000CEC6
+t1401243814
+s52934
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm
+c00000000538548A60000000000001DF3
+t1401243814
+s7667
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m
+c00000000538548A60000000000001663
+t1401243814
+s5731
+
+N/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/libCocosDenshion Mac.a
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb18782b8abb5b941^ab2383b8abb5b941^---0#1#1#--18"Check dependencies36"98041D50-6A0F-4ECA-9B6E-90D3C020BDF0-
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431336377.126469
+e431336377.626844
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDAudioManager.o
+x/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m283"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler367720b9abb5b941^ca8ba0b9abb5b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m0000000000000000^3559"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/include -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.d --serialize-diagnostics /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.dia -c /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.m -o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDAudioManager.o36"3E54C702-4436-48E6-902A-FA417A1DD434-
+bE8B9AFE4-AB85-4F5B-9A9B-04749B018B32
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431336377.209999
+e431336377.725058
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDOpenALSupport.o
+x/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m285"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf5d935b9abb5b941^6ea3b9b9abb5b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m0000000000000000^3565"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/include -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.d --serialize-diagnostics /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.dia -c /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.m -o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDOpenALSupport.o36"BE4B3850-32A3-4921-9884-B1E42AF4E8F3-
+bE8B9AFE4-AB85-4F5B-9A9B-04749B018B32
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s431336376.513049
+e431336377.365076
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o
+x/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/include/SimpleAudioEngine.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/include/Export.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm290"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler007183b8abb5b941^57765db9abb5b941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm0000000000000000^3649"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wnon-virtual-dtor -Woverloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/include -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.d --serialize-diagnostics /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.dia -c /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.mm -o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CDXMacOSXSupport.o36"D3E907E0-61A1-4945-8470-3E9F3169DB93-
+bE8B9AFE4-AB85-4F5B-9A9B-04749B018B32
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431336376.513911
+e431336377.209770
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/CocosDenshion.o
+x/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m281"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler47aa83b8abb5b941^c0b335b9abb5b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m0000000000000000^3553"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/include -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.d --serialize-diagnostics /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.dia -c /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.m -o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion.o36"45ACB1E3-A331-4C58-BB53-762DC765DC7E-
+bE8B9AFE4-AB85-4F5B-9A9B-04749B018B32
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s431336376.513273
+e431336377.905793
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o
+x/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/include/SimpleAudioEngine.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/include/Export.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/platform/CCFileUtils.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/base/CCPlatformMacros.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/base/ccConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/base/CCPlatformConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/platform/mac/CCPlatformDefine.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/base/ccTypes.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/math/CCGeometry.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/base/ccMacros.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/base/CCConsole.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/platform/mac/CCStdC.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/math/CCMath.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/math/Vec2.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/math/CCMathBase.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/math/Vec2.inl
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/math/Vec3.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/math/Vec3.inl
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/math/Mat4.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/math/Vec4.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/math/Vec4.inl
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/math/Mat4.inl
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/math/Quaternion.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/math/Quaternion.inl
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/platform/mac/CCGL.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/base/CCValue.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/base/CCData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm292"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler888083b8abb5b941^1ee2e7b9abb5b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm0000000000000000^3655"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wnon-virtual-dtor -Woverloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/include -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.d --serialize-diagnostics /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.dia -c /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine.mm -o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine.o36"CFB7A561-7300-4E2C-9550-AC3CB63A5519-
+bE8B9AFE4-AB85-4F5B-9A9B-04749B018B32
+
+CCompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431336376.512751
+e431336377.125597
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug/CocosDenshion Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o
+x/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDAudioManager.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CocosDenshion.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDConfig.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDOpenALSupport.h
+d/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/CDXMacOSXSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m299"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere25883b8abb5b941^0b2820b9abb5b941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m0000000000000000^3607"CompileC build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCC_TARGET_OS_MAC -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/CocosDenshion\ Mac.hmap -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/.. -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos/editor-support -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/chipmunk/include/chipmunk -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../cocos/platform/mac -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/include -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources/x86_64 -I/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/DerivedSources -F/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac -MMD -MT dependencies -MF /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.d --serialize-diagnostics /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.dia -c /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/audio/mac/SimpleAudioEngine_objc.m -o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/SimpleAudioEngine_objc.o36"16259366-52F8-4E66-97CC-9E638D042A71-
+bE8B9AFE4-AB85-4F5B-9A9B-04749B018B32
+
+CLibtool /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/libCocosDenshion\ Mac.a normal x86_64
+s431336377.907988
+e431336377.919191
+r1
+xLibtool
+x/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/libCocosDenshion Mac.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Libtool /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/libCocosDenshion\ Mac.a normal x86_64113"Libtool /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/libCocosDenshion\ Mac.a normal x86_640a81e8b9abb5b941^9562ebb9abb5b941^---0#0#1#--849"Libtool /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/libCocosDenshion\ Mac.a normal x86_64    cd /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build    export MACOSX_DEPLOYMENT_TARGET=10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac -filelist /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/build/cocos2d_libs.build/Debug/CocosDenshion\ Mac.build/Objects-normal/x86_64/CocosDenshion\ Mac.LinkFileList -o /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/runtime/mac/libCocosDenshion\ Mac.a36"854FBAA2-C752-4A39-8A71-6D44CB8F0906-
+bE8B9AFE4-AB85-4F5B-9A9B-04749B018B32
+

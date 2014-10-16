@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/manual/CCLuaValue.cpp \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/manual/CCLuaValue.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../../external/lua/luajit/include/lua.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../../external/lua/luajit/include/luaconf.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccTypes.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCGeometry.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCPlatformMacros.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccConfig.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCPlatformConfig.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCPlatformDefine.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccMacros.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCConsole.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCStdC.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCMath.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec2.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCMathBase.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec2.inl \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec3.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec3.inl \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Mat4.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec4.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec4.inl \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Mat4.inl \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Quaternion.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Quaternion.inl \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCGL.h \
+  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCRef.h
