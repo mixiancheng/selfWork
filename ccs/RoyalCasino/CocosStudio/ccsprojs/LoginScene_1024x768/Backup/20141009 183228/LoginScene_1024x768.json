@@ -1,0 +1,95 @@
+{
+  "classname": "CCNode",
+  "name": null,
+  "canedit": true,
+  "objecttag": 10000,
+  "rotation": 0,
+  "scalex": 1,
+  "scaley": 1,
+  "visible": 1,
+  "x": 0,
+  "y": 0,
+  "zorder": 1,
+  "gameobjects": [
+    {
+      "__type": "ComGameObjectSurrogate:#EditorCommon.JsonModel",
+      "classname": "CCNode",
+      "name": null,
+      "canedit": true,
+      "objecttag": 10003,
+      "rotation": 0,
+      "scalex": 1,
+      "scaley": 1,
+      "visible": 1,
+      "x": 0,
+      "y": 0,
+      "zorder": 1,
+      "gameobjects": [],
+      "components": [
+        {
+          "__type": "ComGUIAdapterSurrogate:#EditorCommon.JsonModel.Component",
+          "classname": "GUIComponent",
+          "name": "GUIComponent",
+          "file": null,
+          "fileData": {
+            "path": "publish/Login_UI.json",
+            "plistFile": "",
+            "resourceType": 0
+          }
+        }
+      ]
+    }
+  ],
+  "CanvasSize": {
+    "_height": 768,
+    "_width": 1024
+  },
+  "Triggers": [
+    {
+      "actions": [
+        {
+          "classname": "PlayUIAnimation",
+          "dataitems": [
+            {
+              "key": "UIJsonName",
+              "value": "Message_UI_1024x768.json"
+            },
+            {
+              "key": "AnimationName",
+              "value": "Animation0"
+            }
+          ]
+        }
+      ],
+      "conditions": [],
+      "events": [
+        {
+          "id": 0
+        }
+      ],
+      "id": 0,
+      "name": "Trigger0"
+    }
+  ],
+  "Version": "1.6.0.0",
+  "components": [
+    {
+      "__type": "ComSceneSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCScene",
+      "name": "CCScene",
+      "scenename": "LoginScene_1024x768"
+    },
+    {
+      "__type": "ComSimpleAudioSurrogate:#EditorCommon.JsonModel.Component",
+      "classname": "CCBackgroundAudio",
+      "name": "CCBackgroundAudio",
+      "file": null,
+      "fileData": {
+        "path": null,
+        "plistFile": null,
+        "resourceType": 0
+      },
+      "loop": 0
+    }
+  ]
+}

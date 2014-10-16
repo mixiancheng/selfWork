@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<SceneProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\HallScene_1024x768</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\royalcasino\ccs\RoyalCasino</Resources>
+  <Name>HallScene_1024x768</Name>
+  <JsonFileName>HallScene_1024x768.json</JsonFileName>
+  <JsonFolder>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\assets\publish</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>1024</Width>
+    <Height>768</Height>
+  </CanvasSize>
+  <filePath>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\HallScene_1024x768\HallScene_1024x768.xml.scene</filePath>
+  <ProjectType>SceneProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <JSFileList />
+  <DefaultUI_JSList />
+  <Res>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\assets</Res>
+</SceneProject>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\Roya\ccs\RoyalCasino\CocosStudio\ccsprojs\gameUsedInfo_1024x768</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\Roya\ccs\RoyalCasino\CocosStudio\assets</Resources>
+  <Name>gameUsedInfo_1024x768</Name>
+  <JsonFileName>gameUsedInfo_1024x768.json</JsonFileName>
+  <JsonFolder>Z:\Roya\ccs\RoyalCasino\CocosStudio\ccsprojs\gameUsedInfo_1024x768\Json</JsonFolder>
+  <JsonList>
+    <string>gameUsedInfo_1024x768.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>235</Width>
+    <Height>154</Height>
+  </CanvasSize>
+  <filePath>Z:\Roya\ccs\RoyalCasino\CocosStudio\ccsprojs\gameUsedInfo_1024x768\gameUsedInfo_1024x768.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <imageFileList>
+    <string>publish/ui/maingame/mainUi.plist</string>
+    <string>ui/maingame/mainUi.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>publish/ui/maingame/mainUi.plist</string>
+    <string>ui/maingame/mainUi.plist</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>gameUsedInfo_1024x768.json</CurrentUIJson>
+</UIProject>

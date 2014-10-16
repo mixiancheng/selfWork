@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<GameProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\royalcasino\ccs\RoyalCasino</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\royalcasino\ccs\RoyalCasino</Resources>
+  <Name>RoyalCasino</Name>
+  <JsonFileName>RoyalCasino.json</JsonFileName>
+  <JsonList />
+  <CanvasSize>
+    <Width>480</Width>
+    <Height>320</Height>
+  </CanvasSize>
+  <filePath>Z:\royalcasino\ccs\RoyalCasino\RoyalCasino.xml.ccsproj</filePath>
+  <ProjectType>GameProject</ProjectType>
+  <ResRelativePath />
+  <ResProjFolder>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs</ResProjFolder>
+  <AssetsDir>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\assets</AssetsDir>
+  <LanaguageType>cpp</LanaguageType>
+</GameProject>

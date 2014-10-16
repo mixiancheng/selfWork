@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\Login_UI</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\assets</Resources>
+  <Name>Login_UI</Name>
+  <JsonFileName>Login_UI.json</JsonFileName>
+  <JsonFolder>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\Login_UI\Json</JsonFolder>
+  <JsonList>
+    <string>Login_UI.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1024</Width>
+    <Height>768</Height>
+  </CanvasSize>
+  <filePath>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\Login_UI\Login_UI.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <imageFileList>
+    <string>ui/login/login.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>ui/login/login.plist</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>Login_UI.json</CurrentUIJson>
+</UIProject>

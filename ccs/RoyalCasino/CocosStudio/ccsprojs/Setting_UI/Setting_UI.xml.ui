@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\Setting_UI</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\assets</Resources>
+  <Name>Setting_UI</Name>
+  <JsonFileName>Setting_UI.json</JsonFileName>
+  <JsonFolder>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\Setting_UI\Json</JsonFolder>
+  <JsonList>
+    <string>Setting_UI.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1024</Width>
+    <Height>768</Height>
+  </CanvasSize>
+  <filePath>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\Setting_UI\Setting_UI.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <imageFileList>
+    <string>ui/setting/setting.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>Setting_UI.json</CurrentUIJson>
+</UIProject>

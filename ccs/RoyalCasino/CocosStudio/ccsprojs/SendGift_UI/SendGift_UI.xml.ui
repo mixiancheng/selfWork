@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\SendGift_UI</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\assets</Resources>
+  <Name>SendGift_UI</Name>
+  <JsonFileName>SendGift_UI.json</JsonFileName>
+  <JsonFolder>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\SendGift_UI\Json</JsonFolder>
+  <JsonList>
+    <string>SendGift_UI_1.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\SendGift_UI\SendGift_UI.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>SendGift_UI_1.json</CurrentUIJson>
+</UIProject>

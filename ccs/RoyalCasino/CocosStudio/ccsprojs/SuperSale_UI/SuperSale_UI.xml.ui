@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\SuperSale_UI</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\assets</Resources>
+  <Name>SuperSale_UI</Name>
+  <JsonFileName>SuperSale_UI.json</JsonFileName>
+  <JsonFolder>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\SuperSale_UI\Json</JsonFolder>
+  <JsonList>
+    <string>SuperSale_UI_1.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>480</Width>
+    <Height>320</Height>
+  </CanvasSize>
+  <filePath>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\SuperSale_UI\SuperSale_UI.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>SuperSale_UI_1.json</CurrentUIJson>
+</UIProject>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\UserInfo_UI</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\assets</Resources>
+  <Name>UserInfo_UI</Name>
+  <JsonFileName>UserInfo_UI.json</JsonFileName>
+  <JsonFolder>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\UserInfo_UI\Json</JsonFolder>
+  <JsonList>
+    <string>UserInfo_UI.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1024</Width>
+    <Height>768</Height>
+  </CanvasSize>
+  <filePath>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\UserInfo_UI\UserInfo_UI.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <imageFileList>
+    <string>ui/user_info/user_info.plist</string>
+  </imageFileList>
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>UserInfo_UI.json</CurrentUIJson>
+</UIProject>

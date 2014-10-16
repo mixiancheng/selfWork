@@ -1,0 +1,23 @@
+[
+  "publish/ui/maingame/mainUi.png",
+  "publish/font/coolfont_loading.png",
+  "publish/publish/ui/maingame/mainUi.png",
+  "publish/ui/maingame/_showLayer.png",
+  "publish/publish/ui/maingame/_showLayer.png",
+  "publish\\mainGameScene_1024x768.json",
+  "Z:\\Roya\\ccs\\RoyalCasino\\CocosStudio\\assets\\publish\\ui/maingame/mainUi.plist",
+  "Z:\\Roya\\ccs\\RoyalCasino\\CocosStudio\\assets\\publish\\publish/ui/maingame/mainUi.plist",
+  "Z:\\Roya\\ccs\\RoyalCasino\\CocosStudio\\assets\\publish\\ui/maingame/_showLayer.plist",
+  "Z:\\Roya\\ccs\\RoyalCasino\\CocosStudio\\assets\\publish\\publish/ui/maingame/_showLayer.plist",
+  "Z:\\Roya\\ccs\\RoyalCasino\\CocosStudio\\assets\\publish\\font/coolfont_loading.fnt",
+  "publish/mainGameScene_ui_1024x768.json",
+  "publish/gameUsedInfo_1024x768.json",
+  "publish/Free_Spin_1024x768.json",
+  "publish/Kind_1024x768.json",
+  "publish/Special_1024x768.json",
+  "publish/BigWin_1024x768.json",
+  "publish/MegaWin.json",
+  "publish/Free_1024x768.json",
+  "publish/JackPot_1024x768.json",
+  "publish/levelUp_1024x768.json"
+]

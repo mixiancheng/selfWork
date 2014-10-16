@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<SceneProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\Roya\ccs\RoyalCasino\CocosStudio\ccsprojs\mainGameScene_1024x768</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\Roya\ccs\RoyalCasino</Resources>
+  <Name>mainGameScene_1024x768</Name>
+  <JsonFileName>mainGameScene_1024x768.json</JsonFileName>
+  <JsonFolder>Z:\Roya\ccs\RoyalCasino\CocosStudio\assets\publish</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>1024</Width>
+    <Height>768</Height>
+  </CanvasSize>
+  <filePath>Z:\Roya\ccs\RoyalCasino\CocosStudio\ccsprojs\mainGameScene_1024x768\mainGameScene_1024x768.xml.scene</filePath>
+  <ProjectType>SceneProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <JSFileList />
+  <DefaultUI_JSList />
+  <Res>Z:\Roya\ccs\RoyalCasino\CocosStudio\assets</Res>
+</SceneProject>

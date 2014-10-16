@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\Roya\ccs\RoyalCasino\CocosStudio\ccsprojs\MegaWin</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\Roya\ccs\RoyalCasino\CocosStudio\assets</Resources>
+  <Name>MegaWin</Name>
+  <JsonFileName>MegaWin.json</JsonFileName>
+  <JsonFolder>Z:\Roya\ccs\RoyalCasino\CocosStudio\ccsprojs\MegaWin\Json</JsonFolder>
+  <JsonList>
+    <string>MegaWin.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1024</Width>
+    <Height>768</Height>
+  </CanvasSize>
+  <filePath>Z:\Roya\ccs\RoyalCasino\CocosStudio\ccsprojs\MegaWin\MegaWin.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <imageFileList>
+    <string>publish/ui/maingame/_showLayer.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>publish/ui/maingame/_showLayer.plist</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>MegaWin.json</CurrentUIJson>
+</UIProject>

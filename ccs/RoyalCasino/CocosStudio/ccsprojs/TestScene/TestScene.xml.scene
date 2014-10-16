@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<SceneProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\TestScene</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>Z:\royalcasino\ccs\RoyalCasino</Resources>
+  <Name>TestScene</Name>
+  <JsonFileName>TestScene.json</JsonFileName>
+  <JsonFolder>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\assets\publish</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>1024</Width>
+    <Height>768</Height>
+  </CanvasSize>
+  <filePath>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\ccsprojs\TestScene\TestScene.xml.scene</filePath>
+  <ProjectType>SceneProject</ProjectType>
+  <ResRelativePath>\\..\\..\\assets</ResRelativePath>
+  <JSFileList />
+  <DefaultUI_JSList />
+  <Res>Z:\royalcasino\ccs\RoyalCasino\CocosStudio\assets</Res>
+</SceneProject>
