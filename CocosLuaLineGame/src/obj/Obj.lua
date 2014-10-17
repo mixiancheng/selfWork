@@ -22,7 +22,7 @@ Obj._allSameDel=false
 Obj._allSameDelAvt=nil
 Obj._schedulerId=0
 ObjState={normal=0,droping=1,dead=-3}
-ObjType={"one","two","three","four"}
+ObjType={"one","two","three","four","five"}
 function Obj:moveTopoint(_x,_y) --@return typeOrObject
     self._state=ObjState.droping
 	local function moveOver() --@return typeOrObject
@@ -180,7 +180,7 @@ function Obj:initData(_type,_col,_row) --@return typeOrObject
     local _y=_row*Rules.objH
     self:setPosition(_x,_y)
     self:addAvt()
-    self._state=-1
+    self._state=ObjState.normal
     self._liveNum=1
     self._isLock=false
     self._delDir=DelDir.Normal

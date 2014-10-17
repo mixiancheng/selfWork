@@ -25,7 +25,7 @@ _node=nil--可视窗口
 --
 --获得_mapData数据
 function get_mapData_cell(_row,_col) --@return typeOrObject
-    for k,v in ipairs(_mapData) do
+    for k,v in ipairs(_mapData) do 
         if v._col==_col and v._row==_row then
             return v
         end
@@ -251,7 +251,7 @@ if _cell==nil
         or _cell.obj==nil
 then return
         end
-cclog("----->".._cell._col.."-".._cell._row)
+--cclog("----->".._cell._col.."-".._cell._row)
 local _col=_cell._col
 local _row=_cell._row
     local cellDate_right=get_mapData_cell(_row,_col+1)
@@ -260,7 +260,8 @@ local _row=_cell._row
     local cellDate_up=get_mapData_cell(_row+1,_col)
     if cellDate_right~=nil
     and isInTable(_table,cellDate_right)~=true
-        and cellDate_right.obj~=nil
+    and cellDate_right.obj~=nil
+    and cellDate_right._type~=_mapCellType.factory
     and cellDate_right.obj._type==_cell.obj._type
     then
         table.insert(_table,cellDate_right)
@@ -268,7 +269,8 @@ local _row=_cell._row
     end
     if cellDate_down~=nil
     and isInTable(_table,cellDate_down)~=true
-        and cellDate_down.obj~=nil
+    and cellDate_down._type~=_mapCellType.factory
+    and cellDate_down.obj~=nil
     and cellDate_down.obj._type==_cell.obj._type
     then
         table.insert(_table,cellDate_down)
@@ -276,7 +278,8 @@ local _row=_cell._row
     end
     if cellDate_left~=nil
     and isInTable(_table,cellDate_left)~=true
-        and cellDate_left.obj~=nil
+    and cellDate_left._type~=_mapCellType.factory
+    and cellDate_left.obj~=nil
     and cellDate_left.obj._type==_cell.obj._type
     then
     table.insert(_table,cellDate_left)
@@ -284,7 +287,8 @@ local _row=_cell._row
     end
     if cellDate_up~=nil
     and isInTable(_table,cellDate_up)~=true
-        and cellDate_up.obj~=nil
+    and cellDate_up._type~=_mapCellType.factory
+    and cellDate_up.obj~=nil
     and cellDate_up.obj._type==_cell.obj._type
     then
         table.insert(_table,cellDate_up)

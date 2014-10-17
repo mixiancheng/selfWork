@@ -19,7 +19,7 @@ function MyMapLayer:MyMapLayerAddCells() --@return typeOrObject
 end
 end
 function MyMapLayer:initBackLayer(x,y,width,height,_type) --@return typeOrObject
-    cclog("_type==%s,x===%d,y===%d,width===%d,height===%d",_type,x,y,width,height)
+--    cclog("_type==%s,x===%d,y===%d,width===%d,height===%d",_type,x,y,width,height)
 require "MapCellNode"
     local colStart=x/Rules.objW
     local rowStart=y/Rules.objH
@@ -102,17 +102,29 @@ function MyMapLayer.create()
 end
 function MyMapLayer:addObjs() --@return typeOrObject
     for k,v in ipairs(Rules._mapData) do
-        if v._type==_mapCellType.normal then
+        if v._type==_mapCellType.normal or v._type==_mapCellType.lock then
+        local _typeTable={1,2,3,4,5}
             math.randomseed(os.time()*v._col*v._row)
-            local _type=math.random(1,4)
+            local _type=math.random(1,#_typeTable)
+            local _finalType={}
             v.obj=MyMapLayer:creatObj(_type,v._col,v._row)
+            Rules.checkDellList(v,_finalType)
+            while #_finalType>=3 do--防止生成消除
+                cclog("in while"..#_finalType.."t->"..#_typeTable)
+                v.obj:removeFromParent(true)
+            	_finalType={}
+                table.remove(_typeTable,_type)
+                _type=math.random(1,#_typeTable)
+                v.obj=MyMapLayer:creatObj(_type,v._col,v._row)
+                Rules.checkDellList(v,_finalType)
+            end
 		end
-		if v._type==_mapCellType.lock then
-			math.randomseed(os.time()*v._col*v._row)
-            local _type=math.random(1,4)
-            v.obj=MyMapLayer:creatObj(_type,v._col,v._row)
-            v.obj:setLock(true)
-		end
+--		if v._type==_mapCellType.lock then
+--			math.randomseed(os.time()*v._col*v._row)
+--            local _type=math.random(1,4)
+--            v.obj=MyMapLayer:creatObj(_type,v._col,v._row)
+--            v.obj:setLock(true)
+--		end
 	end
 end
 function MyMapLayer:initMapData() --@return typeOrObject

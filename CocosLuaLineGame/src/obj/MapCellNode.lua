@@ -32,7 +32,7 @@ function MapCellNode:initData(_type,_col,_row) --@return typeOrObject
                 radSeed=radSeed+12345
             if radSeed>10000000 then radSeed=0 end 
                 math.randomseed(radSeed+str)
-                local radType=math.random(1,4)
+                local radType=math.random(1,5)
                 local newObj= creatObj(radType,self._col,self._row)
             newObj._state=ObjState.normal
             _mapCle.obj=newObj
