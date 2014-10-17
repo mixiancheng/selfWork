@@ -119,12 +119,9 @@ function MyMapLayer:addObjs() --@return typeOrObject
                 Rules.checkDellList(v,_finalType)
             end
 		end
---		if v._type==_mapCellType.lock then
---			math.randomseed(os.time()*v._col*v._row)
---            local _type=math.random(1,4)
---            v.obj=MyMapLayer:creatObj(_type,v._col,v._row)
---            v.obj:setLock(true)
---		end
+		if v._type==_mapCellType.lock then
+            v.obj:setLock(true)
+		end
 	end
 end
 function MyMapLayer:initMapData() --@return typeOrObject
@@ -156,11 +153,11 @@ function MyMapLayer:initMapData() --@return typeOrObject
         local height = dict["height"]--dynamic_cast<NSNumber*>(dict:objectForKey("height")):getNumber()
         local type=dict["type"]
         
-        local _color=Rules.debug_color[type]
-        local _drawNode=cc.DrawNode:create()
-        local points={cc.p(0,0), cc.p(0, height), cc.p(width,height), cc.p(width, 0)}
-        _drawNode:drawPolygon(points, table.getn(points), _color,1,_color)
-        _drawNode:setPosition(x,y)
+--        local _color=Rules.debug_color[type]
+--        local _drawNode=cc.DrawNode:create()
+--        local points={cc.p(0,0), cc.p(0, height), cc.p(width,height), cc.p(width, 0)}
+--        _drawNode:drawPolygon(points, table.getn(points), _color,1,_color)
+--        _drawNode:setPosition(x,y)
 --        self:addChild(_drawNode)
         self:initBackLayer(x,y,width,height,type)
     end

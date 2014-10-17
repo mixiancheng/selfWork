@@ -248,10 +248,11 @@ function isInTable(_table,_cell) --@return typeOrObject
 end
 function checkDellList(_cell,_table) --@return typeOrObject
 if _cell==nil
-        or _cell.obj==nil
+or _cell._type==_mapCellType.factory
+or _cell.obj==nil 
 then return
         end
---cclog("----->".._cell._col.."-".._cell._row)
+
 local _col=_cell._col
 local _row=_cell._row
     local cellDate_right=get_mapData_cell(_row,_col+1)
@@ -296,6 +297,7 @@ local _row=_cell._row
     end
 end
 function changeCell(_cell,_dir) --@return typeOrObject
+--if _cell._type==_mapCellType.factory then return end 
 cclog("------------------>")
     if _cell==nil then return end
     if _cell.obj==nil then return end
@@ -333,18 +335,16 @@ cclog("------------------>")
         for i,j in ipairs(_tableTurn) do
             local b=j.obj
             if b~=nil then
-                b:Bomb()
-                j.obj=nil
+                BombCell(j)
             end
         end
         for k,v in ipairs(_table) do
         	local b=v.obj
         	if b~=nil then 
-            b:Bomb()
-            v.obj=nil
+            BombCell(v)
             end
         end
-        setGameState(GAMESTATE.droping)
+        setGameState(GAMESTATE.bombing)
     end
     local action = cc.Sequence:create(_action2,cc.CallFunc:create(moveOver))
     _obj:runAction(_action1)

@@ -2,11 +2,11 @@ require "Rules"
 local _game_state=0
 --objW=64
 --objH=64
-GAMESTATE={normal=0,changeing=1,droping=2}
+GAMESTATE={normal=0,changeing=1,droping=2,bombing=3}
 DIR={right={type=0,point=cc.p(1,0)},down={type=1,point=cc.p(0,-1)},left={type=2,point=cc.p(-1,0)},up={type=3,point=cc.p(0,1)}}
 function setGameState(_state) --@return typeOrObject
     _game_state=_state
-    cclog("gamestate-->".._game_state)
+--    cclog("gamestate-->".._game_state)
 end
 --TypeRand={1,2,3,4}
 --TypeResu
@@ -98,6 +98,7 @@ function checkDownOver() --@return typeOrObject
         end
         end
 end
+cclog("DownOver")
 return true
 end
 function checkDropOver() --@return typeOrObject
@@ -105,12 +106,29 @@ function checkDropOver() --@return typeOrObject
         if v._type==_mapCellType.normal and v.obj==nil then
             return false end
         end
-        cclog("downOver")
+cclog("DropOver")
         return true
+end
+function BombCell(_cell) --@return typeOrObject
+setGameState(GAMESTATE.bombing)
+if _cell.obj==nil then return end 
+    function dell() --@return typeOrObject
+    cclog("dell")
+        local _obj=_cell.obj
+        _obj:Bomb()
+--        _obj:setLock(false)
+        _cell.obj=nil
+        if _cell._type==_mapCellType.lock then
+        _cell._type=_mapCellType.normal end
+    end
+    local _scale=cc.ScaleBy:create(0.3,1.2)
+    local _action = cc.Sequence:create(_scale,cc.CallFunc:create(dell))
+    _cell.obj._avt:runAction(_action)
 end
 function BombCheck() --@return typeOrObject
     local _finalTable={}
     for k,v in ipairs(Rules._mapData) do
+    if v._type~=_mapCellType.factory then
         local _table={}
         table.insert(_table,v)
         Rules.checkDellList(v,_table)
@@ -118,27 +136,27 @@ function BombCheck() --@return typeOrObject
             table.insert(_finalTable,_table)
         end
     end
+    end
     return _finalTable
 end
 function Bomb(_finalTable) --@return typeOrObject
     for l,t in ipairs(_finalTable) do
         for k,v in ipairs(t) do
-            local b=v.obj
-            if b~=nil then
-                b:Bomb()
-                v.obj=nil
-            end
+            BombCell(v)
         end
 end
 end
 function beginTick() --@return typeOrObject
     function GameTick(dt) --@return typeOrObject
---    if checkDownOver()==true then cclog("downOver") end
+    if getGameState()==GAMESTATE.bombing then
+            for k,v in ipairs(Rules._mapData) do
+    	    if v.obj~=nil and v.obj._state==ObjState.droping then return end 
+            end
+            setGameState(GAMESTATE.droping)
+    end
         if getGameState()==GAMESTATE.droping then
             updateAllCell()
---            if checkDownOver()==true then cclog("downOver") end 
             if checkDropOver()==true and checkDownOver()==true then
---                        	setGameState(GAMESTATE.normal)
                 local _final=BombCheck()
                 if #_final>=1 then
                     Bomb(_final)
@@ -149,7 +167,6 @@ function beginTick() --@return typeOrObject
             end
     end
     end
-
     local _sch=cc.Director:getInstance():getScheduler()
-    _sch:scheduleScriptFunc(GameTick,0.025,false)
+    _sch:scheduleScriptFunc(GameTick,0,false)
 end
