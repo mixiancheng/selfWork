@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="9" height="9" tilewidth="76" tileheight="76">
+ <tileset firstgid="1" name="titleBack" tilewidth="76" tileheight="76">
+  <image source="titleBack.png" width="76" height="152"/>
+ </tileset>
+ <tileset firstgid="3" name="title1" tilewidth="76" tileheight="76">
+  <image source="title1.png" width="76" height="76"/>
+ </tileset>
+ <tileset firstgid="4" name="title2" tilewidth="76" tileheight="76">
+  <image source="title2.png" width="76" height="76"/>
+ </tileset>
+ <tileset firstgid="5" name="title3" tilewidth="76" tileheight="76">
+  <image source="title3.png" width="76" height="76"/>
+ </tileset>
+ <tileset firstgid="6" name="title4" tilewidth="76" tileheight="76">
+  <image source="title4.png" width="76" height="76"/>
+ </tileset>
+ <layer name="path" width="9" height="9" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAFjGgYXQzGZ4JimBg6H10vLnOQzUM3mxhzkMWR9TFhwbQCACpAADg=
+  </data>
+ </layer>
+ <objectgroup name="objs" width="9" height="9">
+  <object gid="6" x="0" y="152">
+   <properties>
+    <property name="id" value="1"/>
+    <property name="type" value="3"/>
+   </properties>
+  </object>
+  <object gid="6" x="76" y="152">
+   <properties>
+    <property name="id" value="2"/>
+    <property name="type" value="4"/>
+   </properties>
+  </object>
+  <object gid="3" x="152" y="152">
+   <properties>
+    <property name="id" value="3"/>
+    <property name="type" value="0"/>
+   </properties>
+  </object>
+  <object gid="3" x="304" y="228">
+   <properties>
+    <property name="id" value="16"/>
+    <property name="type" value="0"/>
+   </properties>
+  </object>
+  <object gid="3" x="304" y="76">
+   <properties>
+    <property name="id" value="18"/>
+    <property name="type" value="4"/>
+   </properties>
+  </object>
+  <object gid="3" x="532" y="76">
+   <properties>
+    <property name="id" value="21"/>
+    <property name="type" value="0"/>
+   </properties>
+  </object>
+  <object gid="3" x="456" y="228">
+   <properties>
+    <property name="id" value="24"/>
+    <property name="type" value="0"/>
+   </properties>
+  </object>
+  <object gid="4" x="0" y="380">
+   <properties>
+    <property name="id" value="8"/>
+    <property name="type" value="2"/>
+   </properties>
+  </object>
+  <object gid="4" x="0" y="456">
+   <properties>
+    <property name="id" value="9"/>
+    <property name="type" value="2"/>
+   </properties>
+  </object>
+  <object gid="4" x="76" y="456">
+   <properties>
+    <property name="id" value="10"/>
+    <property name="type" value="2"/>
+   </properties>
+  </object>
+  <object gid="4" x="304" y="304">
+   <properties>
+    <property name="id" value="15"/>
+    <property name="type" value="2"/>
+   </properties>
+  </object>
+  <object gid="4" x="532" y="228">
+   <properties>
+    <property name="id" value="23"/>
+    <property name="type" value="2"/>
+   </properties>
+  </object>
+  <object gid="5" x="152" y="228">
+   <properties>
+    <property name="id" value="4"/>
+    <property name="type" value="1"/>
+   </properties>
+  </object>
+  <object gid="5" x="380" y="76">
+   <properties>
+    <property name="id" value="19"/>
+    <property name="type" value="1"/>
+   </properties>
+  </object>
+  <object gid="5" x="532" y="152">
+   <properties>
+    <property name="id" value="22"/>
+    <property name="type" value="1"/>
+   </properties>
+  </object>
+  <object gid="5" x="456" y="380">
+   <properties>
+    <property name="id" value="26"/>
+    <property name="type" value="1"/>
+   </properties>
+  </object>
+  <object gid="5" x="152" y="456">
+   <properties>
+    <property name="id" value="11"/>
+    <property name="type" value="1"/>
+   </properties>
+  </object>
+  <object gid="6" x="228" y="456">
+   <properties>
+    <property name="id" value="12"/>
+    <property name="type" value="3"/>
+   </properties>
+  </object>
+  <object gid="6" x="304" y="456">
+   <properties>
+    <property name="id" value="13"/>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+  <object gid="6" x="304" y="380">
+   <properties>
+    <property name="id" value="14"/>
+    <property name="type" value="4"/>
+   </properties>
+  </object>
+  <object gid="6" x="76" y="304">
+   <properties>
+    <property name="id" value="6"/>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+  <object gid="6" x="152" y="304">
+   <properties>
+    <property name="id" value="5"/>
+    <property name="r" value="180"/>
+    <property name="type" value="5"/>
+   </properties>
+  </object>
+  <object gid="6" x="0" y="304">
+   <properties>
+    <property name="id" value="7"/>
+    <property name="type" value="7"/>
+   </properties>
+  </object>
+  <object gid="6" x="304" y="152">
+   <properties>
+    <property name="id" value="17"/>
+    <property name="r" value="270"/>
+    <property name="type" value="5"/>
+   </properties>
+  </object>
+  <object gid="6" x="456" y="76">
+   <properties>
+    <property name="id" value="20"/>
+    <property name="type" value="5"/>
+   </properties>
+  </object>
+  <object gid="6" x="456" y="304">
+   <properties>
+    <property name="id" value="25"/>
+    <property name="r" value="90"/>
+    <property name="type" value="5"/>
+   </properties>
+  </object>
+  <object gid="6" x="532" y="380">
+   <properties>
+    <property name="id" value="27"/>
+    <property name="type" value="4"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
