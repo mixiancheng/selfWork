@@ -6,14 +6,7 @@ GAMESTATE={normal=0,changeing=1,droping=2,bombing=3}
 DIR={right={type=0,point=cc.p(1,0)},down={type=1,point=cc.p(0,-1)},left={type=2,point=cc.p(-1,0)},up={type=3,point=cc.p(0,1)}}
 function setGameState(_state) --@return typeOrObject
     _game_state=_state
---    cclog("gamestate-->".._game_state)
 end
---TypeRand={1,2,3,4}
---TypeResu
---function creatType() --@return typeOrObject
---    math.randomseed(os.time())
---    local _type=math.random(1,4)
---end
 function getGameState() --@return typeOrObject
     return _game_state
 end
