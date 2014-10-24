@@ -25,12 +25,15 @@ _node=nil--可视窗口
 --
 --获得_mapData数据
 function get_mapData_cell(_row,_col) --@return typeOrObject
-    for k,v in ipairs(_mapData) do 
-        if v._col==_col and v._row==_row then
-            return v
-        end
+--    for k,v in ipairs(_mapData) do 
+--        if v._col==_col and v._row==_row then
+--            return v
+--        end
+--    end
+if _mapData[_row]==nil then
+	return nil
 end
-return nil
+return _mapData[_row][_col]
 end
 --根据坐标获得cell数据
 function get_mapData_cell_bycr(_row,_col) --@return typeOrObject

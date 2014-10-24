@@ -35,12 +35,12 @@ return false
 end
 --根据行列获得_cell
 function getCell(_col,_row) --@return typeOrObject
-    for k,v in ipairs(Rules._mapData) do
-        if v._col==_col and v._row==_row then
-            return v
-        end
-end
-return nil
+--    for k,v in ipairs(Rules._mapData) do
+--        if v._col==_col and v._row==_row then
+--            return v
+--        end
+--    end
+    return _mapData[_row][_col]
 end
 -- 获得下一个可移动单元
 function getNextCell(_cell) --@return typeOrObject
@@ -64,7 +64,6 @@ end
 function addCellObj(_cell,obj) --@return typeOrObject
     _cell.obj=obj
     _cell.obj:moveTopoint(_cell._col*Rules.objW,_cell._row*Rules.objH)
-    --    _cell.obj:setPosition(_cell._col*Rules.objW,_cell._row*Rules.objH)
 end
 --更新当前_cell
 function updateCell(_cell) --@return typeOrObject
@@ -99,7 +98,7 @@ function checkDropOver() --@return typeOrObject
         if v._type==_mapCellType.normal and v.obj==nil then
             return false end
         end
-cclog("DropOver")
+--cclog("DropOver")
         return true
 end
 function BombCell(_cell) --@return typeOrObject
@@ -145,21 +144,25 @@ function beginTick() --@return typeOrObject
             for k,v in ipairs(Rules._mapData) do
     	    if v.obj~=nil and v.obj._state==ObjState.droping then return end 
             end
+--            updateAllCell()
             setGameState(GAMESTATE.droping)
+--            updateAllCell()
     end
         if getGameState()==GAMESTATE.droping then
             updateAllCell()
-            if checkDropOver()==true and checkDownOver()==true then
-                local _final=BombCheck()
-                if #_final>=1 then
-                    Bomb(_final)
-                    setGameState(GAMESTATE.droping)
-                else
-                    setGameState(GAMESTATE.normal)
-                end
-            end
+            cclog("--------------")
+--            if checkDropOver()==true 
+--            and checkDownOver()==true then
+--                local _final=BombCheck()
+--                if #_final>=1 then
+--                    Bomb(_final)
+--                    setGameState(GAMESTATE.droping)
+--                else
+--                    setGameState(GAMESTATE.normal)
+--                end
+--            end
     end
     end
     local _sch=cc.Director:getInstance():getScheduler()
-    _sch:scheduleScriptFunc(GameTick,0,false)
+    _sch:scheduleScriptFunc(GameTick,0.2,false)
 end

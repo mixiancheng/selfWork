@@ -13,7 +13,6 @@ function MyMapLayer.extend(target)
 end
 function MyMapLayer:MyMapLayerAddCells() --@return typeOrObject
     for k,v in ipairs(Rules._mapData) do
---        cclog("v._type===%s",v._type)
         local _obj=creatMapCellNode(v._type,v._col,v._row)
         Rules._node:addChild(_obj)
 end
@@ -30,7 +29,9 @@ require "MapCellNode"
             local _cell=Rules.get_mapData_cell(_row,_col)
             if _cell==nil then 
             local _table={_type=_type,_row=_row,_col=_col}
-            table.insert(Rules._mapData,_table)
+--            table.insert(Rules._mapData,_table)
+             if Rules._mapData[_row]==nil then Rules._mapData[_row]={} end
+             Rules._mapData[_row][_col]=_table
             elseif _cell._type=="normal" then
             _cell._type=_type
             end
@@ -101,28 +102,24 @@ function MyMapLayer.create()
     return layer
 end
 function MyMapLayer:addObjs() --@return typeOrObject
-    for k,v in ipairs(Rules._mapData) do
-        if v._type==_mapCellType.normal or v._type==_mapCellType.lock then
-        local _typeTable={1,2,3,4,5}
-            math.randomseed(os.time()*v._col*v._row)
+cclog("---")
+    for k,v in pairs(Rules._mapData) do
+        cclog("<---->")
+        for i,j in pairs(v) do
+	cclog("---->")
+		local _table=j
+		local _row=_table._row
+		local _col=_table._col
+		local _type=_table._type
+            local _typeTable={1,2,3,4,5}
+            math.randomseed(os.time()*_col*_row)
             local _type=math.random(1,#_typeTable)
-            local _finalType={}
-            v.obj=MyMapLayer:creatObj(_type,v._col,v._row)
-            Rules.checkDellList(v,_finalType)
-            while #_finalType>=3 do--防止生成消除
-                cclog("in while"..#_finalType.."t->"..#_typeTable)
-                v.obj:removeFromParent(true)
-            	_finalType={}
-                table.remove(_typeTable,_type)
-                _type=math.random(1,#_typeTable)
-                v.obj=MyMapLayer:creatObj(_type,v._col,v._row)
-                Rules.checkDellList(v,_finalType)
+            _table.obj=MyMapLayer:creatObj(_type,_col,_row)
+            if _type==_mapCellType.lock then
+                _table.obj:setLock(true)
             end
-		end
-		if v._type==_mapCellType.lock then
-            v.obj:setLock(true)
-		end
 	end
+    end
 end
 function MyMapLayer:initMapData() --@return typeOrObject
     local map=cc.TMXTiledMap:create("map_0.tmx")

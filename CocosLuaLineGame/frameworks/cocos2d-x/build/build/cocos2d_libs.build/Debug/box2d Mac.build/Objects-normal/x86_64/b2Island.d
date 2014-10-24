@@ -1,23 +1,23 @@
 dependencies: \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/external/Box2D/Dynamics/b2Island.cpp \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2Distance.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Common/b2Math.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Common/b2Settings.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2Island.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2Body.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Collision/Shapes/b2Shape.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Common/b2BlockAllocator.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2Collision.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2TimeStep.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2Fixture.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2World.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Common/b2StackAllocator.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2ContactManager.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2BroadPhase.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2DynamicTree.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Common/b2GrowableStack.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2WorldCallbacks.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2Contact.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2ContactSolver.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2Joint.h \
-  /Users/mixiancheng/Documents/mxc/cocos/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Common/b2Timer.h
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/external/Box2D/Dynamics/b2Island.cpp \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2Distance.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Common/b2Math.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Common/b2Settings.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2Island.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2Body.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Collision/Shapes/b2Shape.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Common/b2BlockAllocator.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2Collision.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2TimeStep.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2Fixture.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2World.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Common/b2StackAllocator.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2ContactManager.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2BroadPhase.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Collision/b2DynamicTree.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Common/b2GrowableStack.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/b2WorldCallbacks.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2Contact.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Contacts/b2ContactSolver.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Dynamics/Joints/b2Joint.h \
+  /Users/mxc/Documents/git/CocosLuaLineGame/frameworks/cocos2d-x/build/../external/Box2D/Common/b2Timer.h

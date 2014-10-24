@@ -24,13 +24,14 @@ Obj._schedulerId=0
 ObjState={normal=0,droping=1,dead=-3}
 ObjType={"one","two","three","four","five"}
 function Obj:moveTopoint(_x,_y) --@return typeOrObject
-    self._state=ObjState.droping
-	local function moveOver() --@return typeOrObject
-    self._state=ObjState.normal
-	end
-	local _moveAction=cc.MoveTo:create(0.1,cc.p(_x,_y))
-	local _action=cc.Sequence:create(_moveAction,cc.CallFunc:create(moveOver))
-	self:runAction(_action)
+self:setPosition(_x,_y)
+--    self._state=ObjState.droping
+--	local function moveOver() --@return typeOrObject
+--    self._state=ObjState.normal
+--	end
+--	local _moveAction=cc.MoveTo:create(0.1,cc.p(_x,_y))
+--	local _action=cc.Sequence:create(_moveAction,cc.CallFunc:create(moveOver))
+--	self:runAction(_action)
 end
 function Obj:draw() --@return typeOrObject
 	cclog("draw------------------->")
