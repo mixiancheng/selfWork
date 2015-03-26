@@ -48,8 +48,8 @@ local function main()
     --require('debugger')()
 
     end
---    require "GameLayer"
---    testGameLayer()
+    require "GameLayer"
+    testGameLayer()
 --    require "src/protobuf/protocTest"
 --    TestPb_rep()
     --    require "Resource"
@@ -58,9 +58,9 @@ local function main()
 --    runCocosHelloScene()
     --      require "testPb"
     --      testPb()
-    _rule= require("Rules")
-    require "GameView"
-    CreatGameView()
+--    _rule= require("Rules")
+--    require "GameView"
+--    CreatGameView()
 --    local num=_rule.getLine(2,0)
 --    cclog("num"..num)
 end
